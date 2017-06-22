@@ -1,1 +1,3 @@
-# CSEW-Interviewer-gender-the-presence-of-others-and-disclosure-of-violent-victimisation
+## Crime Survey for England and Wales: interviewer gender, the presence of others, and disclosure of violent victimisation
+
+The code analyses data from the Crime Survey for England and Wales (CSEW) in order to assess whether (a) the gender of interviewers or (b) the presence of individuals other than the respondent and the interviewer during a CSEW interview can influence whether respondents disclose having been victims of a violent crime. The analysis identifies preliminary evidence of interviewer-gender effects in relation to male CSEW respondents. It also identifies evidence suggesting that the presence of a child or a partner during the CSEW interview may be redusing the probability of violent victimisation disclosure. 
